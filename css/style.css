@@ -1,0 +1,96 @@
+header {
+    background-color: #2d4053;
+}
+
+img {
+    width: 100%;
+}
+
+/* DEBUG */
+
+.debug .row {
+    background-color: aquamarine;
+    border: 1px solid green;
+    min-height: 20px;
+}
+
+.debug [class*="col-"] {
+    background-color: red;
+    border: 1px solid black
+}
+
+/* COLOR FIXES */
+
+.my-text-white {
+    color: white;
+}
+
+.sidestar-dark {
+    background-color: #2d4053;
+}
+
+.section-colored {
+    background-color: #13b998;
+}
+
+.my-text-dark {
+    color: #2c3e50;
+}
+
+.my-button-colored {
+    background-color: #13b998;
+}
+
+.start-Bootstrap-link-color {
+    color: #21a792
+}
+
+.left-star,
+.right-star {
+    height: 6px;
+    width: 100%;
+}
+
+/* HEADER */
+
+.navbar {
+    height: 80px;
+}
+
+/* JUMBOTRON */
+
+.jumbotron {
+    background-color: #13b998;
+}
+
+
+
+.jumbo-img {
+    max-width: 250px
+}
+
+/* CONTACT ME  */
+
+.send-button-box {
+    height: 100px;
+}
+
+/* FOOTER */
+
+footer {
+    background-color: #375672;
+}
+
+footer .social-item {
+    height: 50px;
+    width: 50px;
+
+
+}
+
+.copyright {
+    height: 100px;
+    line-height: 100px;
+
+    background-color: #2d4053
+}
